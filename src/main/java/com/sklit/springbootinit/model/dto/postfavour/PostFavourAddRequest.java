@@ -6,8 +6,8 @@ import lombok.Data;
 /**
  * 帖子收藏 / 取消收藏请求
  *
- * @author <a href="https://github.com/lisklit">程序员鱼皮</a>
- * @from <a href="https://sklit.icu">编程导航知识星球</a>
+ * @author sklit
+ * 
  */
 @Data
 public class PostFavourAddRequest implements Serializable {

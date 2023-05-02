@@ -14,8 +14,8 @@ import org.springframework.boot.CommandLineRunner;
 /**
  * 全量同步帖子到 es
  *
- * @author <a href="https://github.com/lisklit">程序员鱼皮</a>
- * @from <a href="https://sklit.icu">编程导航知识星球</a>
+ * @author sklit
+ * 
  */
 // todo 取消注释开启任务
 //@Component

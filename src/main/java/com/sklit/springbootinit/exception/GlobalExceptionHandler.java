@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 /**
  * 全局异常处理器
  *
- * @author <a href="https://github.com/lisklit">程序员鱼皮</a>
- * @from <a href="https://sklit.icu">编程导航知识星球</a>
+ * @author sklit
+ * 
  */
 @RestControllerAdvice
 @Slf4j

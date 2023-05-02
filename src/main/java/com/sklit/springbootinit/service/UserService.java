@@ -13,8 +13,8 @@ import me.chanjar.weixin.common.bean.WxOAuth2UserInfo;
 /**
  * 用户服务
  *
- * @author <a href="https://github.com/lisklit">程序员鱼皮</a>
- * @from <a href="https://sklit.icu">编程导航知识星球</a>
+ * @author sklit
+ * 
  */
 public interface UserService extends IService<User> {
 

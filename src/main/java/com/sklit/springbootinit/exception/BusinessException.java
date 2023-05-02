@@ -5,8 +5,8 @@ import com.sklit.springbootinit.common.ErrorCode;
 /**
  * 自定义异常类
  *
- * @author <a href="https://github.com/lisklit">程序员鱼皮</a>
- * @from <a href="https://sklit.icu">编程导航知识星球</a>
+ * @author sklit
+ * 
  */
 public class BusinessException extends RuntimeException {
 

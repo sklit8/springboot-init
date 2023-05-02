@@ -3,8 +3,8 @@ package com.sklit.springbootinit.wxmp;
 /**
  * 微信公众号相关常量
  *
- * @author <a href="https://github.com/lisklit">程序员鱼皮</a>
- * @from <a href="https://sklit.icu">编程导航知识星球</a>
+ * @author sklit
+ * 
  **/
 public class WxMpConstant {
 
